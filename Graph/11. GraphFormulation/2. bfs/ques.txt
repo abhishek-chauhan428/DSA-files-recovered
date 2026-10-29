@@ -1,0 +1,53 @@
+# q1:-- Shortest Path in a Maze
+
+You are given a grid of size N × M representing a maze.
+
+- 'S' represents the starting position.
+- 'F' represents the destination.
+- '.' represents an empty cell that can be visited.
+- '#' represents a wall that cannot be crossed.
+
+You can move only in four directions: up, down, left, and right.
+
+Your task is to find the length of the shortest path from S to F. If no such path exists, print -1.
+
+## Input
+- The first line contains two integers N and M.
+- The next N lines each contain a string of length M describing the maze.
+
+## Output
+Print a single integer — the length of the shortest path from S to F. If it is impossible to reach F, print -1.
+
+## Sample Input
+6 6
+S.#...
+..#...
+#.#.#.
+.....#
+####..
+F.....
+
+## Sample Output
+9
+
+## Constraints
+1 ≤ N, M ≤ 1000
+
+
+
+
+q2:- Print me the path may be one of the question 
+
+:= for every node we store its parent 
+to get the path of the final point right ??
+
+
+
+
+
+
+
+
+
+
+

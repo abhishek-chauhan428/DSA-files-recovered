@@ -1,0 +1,19 @@
+Connected Components
+
+q1:-
+1. Find the number of connected components.
+2. Find the size of each connected component.
+3. List all connected components.
+4. Check whether vertices x and y are in the same connected component.
+
+
+
+q2:- 
+check graph is bipertite
+
+(observation:- there should be no odd cycle)
+(tweaked prolem : - check if graph has odd sized cycle)
+
+
+q3:-
+detect graph contains  cycle
